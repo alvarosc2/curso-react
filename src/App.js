@@ -7,9 +7,9 @@ function App() {
       <header >
         header
       </header>
-      <body>
-        <Quiz />
-      </body>
+
+      <Quiz />
+      
       <footer>
         footer
       </footer>
